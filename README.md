@@ -1,8 +1,12 @@
 # EX 9 : IMAGE EDITING
 
-NAME : MOHAMED NIZAMUDDIN A
+## NAME:
 
-REG NO : 212224040194
+VIGNESH V
+
+## REG NO:
+
+212224230303
 
 ## AIM:
 
@@ -41,8 +45,6 @@ REG NO : 212224040194
 
 
 
-
-
 ## CHANGING THE SIZE
 
 
@@ -56,7 +58,8 @@ REG NO : 212224040194
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/5510c495-6b5c-4dee-87aa-97a9124eaa78)
+![image](https://github.com/user-attachments/assets/faa0200c-6a8f-4e9b-a91a-56c0207144c6)
+
 
 ## RESULT : 
 
